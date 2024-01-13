@@ -1,0 +1,31 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": false,
+    "footerInfo": "<a href=\"https://beian.miit.gov.cn\">粤ICP备18103016号</a>",
+    "postPageSize": 10,
+    "postPath": "",
+    "postUrlFormat": "SHORT_ID",
+    "showFeatureImage": true,
+    "siteDescription": "温故而知新",
+    "siteName": "小屁孩的日志",
+    "tagPath": "",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "fly"
+  },
+  "customConfig": {
+    "contentMaxWidth": "800px",
+    "customCss": "",
+    "facebook": "",
+    "ga": "UA-81416461-1",
+    "github": "https://github.com/WanQuanXie",
+    "skin": "white",
+    "textSize": "16px",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "config": {
+    "branch": "main",
+    "cname": "www.evilsir.cn",
+    "domain": "https://www.evilsir.cn",
+    "email": "i2cherry941219@gmail.com",
+    "enabledProxy": "proxy",
+    "password": "",
+    "platform": "github",
+    "port": 22,
+    "privateKey": "/Users/xiewq/.ssh/tencent_cloud_light",
+    "proxyPath": "127.0.0.1",
+    "proxyPort": "7890",
+    "remotePath": "/var/www/blog",
+    "repository": "WanQuanXie.github.io",
+    "server": "",
+    "token": "",
+    "username": "WanQuanXie"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
